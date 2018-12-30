@@ -1,0 +1,4 @@
+setuptools
+tiddlywebwiki
+tiddlywebplugins.form
+tiddlywebplugins.urls
